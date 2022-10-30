@@ -1,0 +1,14 @@
+﻿Query Executing Methods:
+- All the these methods are available in Command Object
+	- ExecuteNonQuery()
+		- It is used to execute only action quries(Insert/Update/Delete)
+		- No. of rows affected, int
+	- ExecuteScalar()
+		- It is used to execute Non-Action quries which returns single value.
+		- It get a value - object
+	- ExecuteReader()
+		- It is used to execute Non-Action quries which may return single/multiple values or Single/multiple rows and columns or complete table
+		- Gets collection of data - SqlDataReader
+
+SqlInjection Attacks		->		Stored Procedure
+	
