@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CADatabaseExamples.Example4</StartupObject>
+    <StartupObject>CADatabaseExamples.Example6</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,6 +52,7 @@
     <Compile Include="Example3.cs" />
     <Compile Include="Example4.cs" />
     <Compile Include="Example5.cs" />
+    <Compile Include="Example6.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

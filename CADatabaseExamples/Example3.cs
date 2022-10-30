@@ -6,6 +6,7 @@ namespace CADatabaseExamples
 {
     class Example3
     {
+        //Example to Insert data
         static void Main(string[] args)
         {
             Console.WriteLine("Enter Employee Details: ");
